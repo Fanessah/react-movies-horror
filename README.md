@@ -1,6 +1,6 @@
 # React Movies
 
-Happy Halloween! 
+Happy Halloween 🎃! 
 
 See a Demo at [https://react-movies-fh2.web.app](https://react-movies-fh2.web.app)
 
